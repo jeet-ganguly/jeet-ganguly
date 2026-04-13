@@ -36,7 +36,7 @@ Cyber Threat Intelligence & OSINT Analyst. I work across threat intelligence, OS
 - Perform **web application security testing** (SQLi, XSS, IDOR, SSRF, LFI, Auth Bypass)
 - Threat intelligence correlation for real-world security incidents
 
-**🔎 Independent OSINT & Threat Intelligence Researcher** *(Part-Time)*
+**🔎 Independent OSINT Investigator** *(Part-Time)*
 - OSINT investigations, social media monitoring, threat actor profiling, and intelligence documentation
 
 ---
