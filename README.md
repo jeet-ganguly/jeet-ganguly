@@ -77,7 +77,7 @@ Cyber Threat Intelligence & OSINT Analyst. I work across threat intelligence, OS
 
 ## 🏆 Achievements & Recognition
 
-**🐛 Hall of Fame & Bug Bounty**
+**🐛 Hall of Fame**
 - 🇳🇱 **Netherlands Government** — Security Operations Centre (SOC)    [Hall-of-fame page](https://www.belastingdienst.nl/wps/wcm/connect/bldcontenten/standaard_functies/individuals/contact/data-leak-vulnerability-abuse-computer-systems/hall-of-fame-cvd)
 - 💹 **Delta Exchange**    [Hall-of-fame page](https://www.delta.exchange/bug-bounty-program)
 
