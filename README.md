@@ -43,7 +43,7 @@ Cyber Threat Intelligence & OSINT Analyst. I work across threat intelligence, OS
 
 ## 🔭 Projects
 
-### [Birdy-Edwards](https://github.com/jeet-ganguly/birdy-edwards) — Facebook SOCMINT/OSINT Tool (Currently Private)
+### [Birdy-Edwards](https://github.com/jeet-ganguly/birdy-edwards) — Facebook SOCMINT/OSINT Tool
 
 > AI-powered investigative intelligence platform for **authorized** law enforcement and licensed investigator use.
 
