@@ -57,7 +57,7 @@ Cyber Threat Intelligence & OSINT Analyst. I work across threat intelligence, OS
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-- 🧠 Local AI inference (Gemma3:12B) for image & sentiment analysis
+- 🧠 Local AI inference (Gemma3:12B) or (Gemma4) for image & sentiment analysis
 - 👤 Face recognition & identity clustering (HOG model)
 - 🌍 Commentor geolocation & country attribution
 - 📄 Automated PDF threat reports with timelines & face intelligence gallery
