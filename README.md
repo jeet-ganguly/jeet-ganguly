@@ -65,6 +65,7 @@ Cyber Threat Intelligence & OSINT Analyst. I work across threat intelligence, OS
 ### 🔒 AI-Based Secure DNS Firewall *(Indian Army Internship)*
 - Designed AI-driven DNS filtering for detecting and blocking malicious **C2 and phishing domains**
 - Integrated threat intelligence feeds and behavioral domain analysis
+- Used python, Ml algorithms(Random Forest), NLP, Tranformer based model, DistilRoBerta
   
 ---
 
