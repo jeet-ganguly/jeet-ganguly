@@ -30,10 +30,12 @@ Cyber Threat Intelligence & OSINT Analyst. I work across threat intelligence, OS
 **🪖 Indian Army — Cyber Security Research Intern** *(75 Days, 2025)*
 - Conducted **AI-based DNS security research** for detection of malicious C2 and phishing domains
 - Designed AI-driven DNS filtering system integrating threat intelligence feeds and behavioral domain analysis
+- Developed DNS tunneling based malware to generate **3000+** data exfiltration dn requests
+- Successfully blocked **98%** Data exfiltration DNS request through developed AI-driven DNS filtering software
 
 **🏢 Private Startup — Cyber Threat Intelligence & Application Security Intern** *(Apr 2025 – Apr 2026)*
-- Monitor **dark web forums and Telegram channels** for emerging cyber threats
-- Perform **web application security testing** (SQLi, XSS, IDOR, SSRF, LFI, Auth Bypass)
+- Monitor 100+ **dark web forums and Telegram channels** for emerging cyber threats
+- Perform **web application security testing** (SQLi, XSS, IDOR, SSRF, LFI, Auth Bypass) found 50+ vulnerabilities
 - Threat intelligence correlation for real-world security incidents
 
 **🔎 Independent OSINT Investigator** *(Part-Time)*
