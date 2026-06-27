@@ -69,10 +69,7 @@ Cyber Threat Intelligence & OSINT Analyst. I work across threat intelligence, OS
 ### 🔒 AI-Based Secure DNS Firewall *(Indian Army Internship)*
 - Designed AI-driven DNS filtering for detecting and blocking malicious **C2 and phishing domains**
 - Integrated threat intelligence feeds and behavioral domain analysis
-
-### 💀 Advanced C2 Framework — Red Team Simulation
-- Developed **cross-platform C2 framework** for malware behavior simulation research
-
+  
 ---
 
 ## 🏆 Achievements & Recognition
