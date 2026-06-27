@@ -38,6 +38,10 @@ Cyber Threat Intelligence & OSINT Analyst. I work across threat intelligence, OS
 - Perform **web application security testing** (SQLi, XSS, IDOR, SSRF, LFI, Auth Bypass) found 50+ vulnerabilities
 - Threat intelligence correlation for real-world security incidents
 
+**🐞 Bug Bounty & Vulnerability Research** *(Oct 2025 - Dec 2025)*
+- Identified 15 API vulnerabilities across public bug bounty programs over two months
+- Got 2 Hall of Fames [Check Below]
+
 **🔎 Independent OSINT Investigator** *(Part-Time)*
 - OSINT investigations, social media monitoring, threat actor profiling, and intelligence documentation
 
@@ -65,7 +69,7 @@ Cyber Threat Intelligence & OSINT Analyst. I work across threat intelligence, OS
 ### 🔒 AI-Based Secure DNS Firewall *(Indian Army Internship)*
 - Designed AI-driven DNS filtering for detecting and blocking malicious **C2 and phishing domains**
 - Integrated threat intelligence feeds and behavioral domain analysis
-- Used python, Ml algorithms(Random Forest), NLP, Tranformer based model, DistilRoBerta
+- Used python, ML algorithms(Random Forest), NLP, Tranformer based model, DistilRoBerta
   
 ---
 
