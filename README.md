@@ -16,7 +16,7 @@
 
 ```yaml
 name        : Jeet Ganguly
-role        : Cyber Threat Intelligence & OSINT Analyst
+role        : WEB & API Penetration Testing | Cyber Threat Intelligence & OSINT Analyst
 focus       : OSINT · SOCMINT · Dark Web · Threat Intelligence · API Security
 
 ```
