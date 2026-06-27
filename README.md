@@ -58,8 +58,6 @@ Cyber Threat Intelligence & OSINT Analyst. I work across threat intelligence, OS
 - 🌍 Commentor geolocation & country attribution
 - 📄 Automated PDF threat reports with timelines & face intelligence gallery
 
-> ⚠️ *Built for authorized investigative use only. CFAA & GDPR compliant.*
-
 ---
 
 ### 🔒 AI-Based Secure DNS Firewall *(Indian Army Internship)*
