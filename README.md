@@ -31,7 +31,7 @@ Cyber Threat Intelligence & OSINT Analyst. I work across threat intelligence, OS
 - Conducted **AI-based DNS security research** for detection of malicious C2 and phishing domains
 - Designed AI-driven DNS filtering system integrating threat intelligence feeds and behavioral domain analysis
 
-**🏢 Private Startup — Cyber Threat Intelligence & Application Security Intern** *(Apr 2025 – Present)*
+**🏢 Private Startup — Cyber Threat Intelligence & Application Security Intern** *(Apr 2025 – Apr 2026)*
 - Monitor **dark web forums and Telegram channels** for emerging cyber threats
 - Perform **web application security testing** (SQLi, XSS, IDOR, SSRF, LFI, Auth Bypass)
 - Threat intelligence correlation for real-world security incidents
