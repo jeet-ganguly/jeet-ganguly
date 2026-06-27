@@ -47,10 +47,6 @@ Cyber Threat Intelligence & OSINT Analyst. I work across threat intelligence, OS
 
 > AI-powered investigative intelligence platform for **authorized** law enforcement and licensed investigator use.
 
-```
-
-```
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-Local%20AI-black?style=flat-square)
