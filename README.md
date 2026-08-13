@@ -1,12 +1,48 @@
 <div align="center">
 
+<table>
+<tr>
+<td valign="middle" align="center">
+
 ```text
-     _ _____ _____ _____    ____    _    _   _  ____ _   _ _  __   __
-    | | ____| ____|_   _|  / ___|  / \  | \ | |/ ___| | | | | \ \ / /
- _  | |  _| |  _|   | |   | |  _  / _ \ |  \| | |  _| | | | |  \ V /
-| |_| | |___| |___  | |   | |_| |/ ___ \| |\  | |_| | |_| | |___| |
- \___/|_____|_____| |_|    \____/_/   \_\_| \_|\____|\___/|_____|_|
+                     #.  ..               
+                 ..########               
+              ###############.            
+            .##################           
+           .#################.##          
+          .##################.###         
+        .####################.###         
+      .###.######.  .####...######.       
+           ####.     .#. .. .########     
+                         . .#####.        
+                         .#.####.         
+            .                ..####.      
+          ....        .#   ..#######      
+        .#   .     .###  .##########      
+#####  #.     ....#### .#############     
+.#######        .###. #################.  
+ .####         #####.###################. 
+               .##.##########..           
+            .###########.                 
+             #######..                    
+             ####.                        
+              #.                          
 ```
+
+</td>
+<td valign="middle">
+
+```text
+    _ ___ ___ _____    ___   _   _  _  ___ _   _ _ __   __
+ _ | | __| __|_   _|  / __| /_\ | \| |/ __| | | | |\ \ / /
+| || | _|| _|  | |   | (_ |/ _ \| .` | (_ | |_| | |_\ V /
+ \__/|___|___| |_|    \___/_/ \_\_|\_|\___|\___/|____|_|
+```
+
+</td>
+</tr>
+</table>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=Web+%2B+API+Penetration+Tester;Dark+Web+%26+OSINT+Investigator;Building+Birdy-Edwards+%7C+Canva-C2;Top+3%25+Globally+on+TryHackMe" alt="Typing SVG" />
 
@@ -22,7 +58,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=jeet-ganguly&theme=dark&hide_border=true&background=0d1117&ring=00ff9c&fire=8be9fd&currStreakLabel=00ff9c" height="165"/>
@@ -33,7 +69,7 @@
 
 ---
 
-### 👋 About Me
+### About Me
 
 ```yaml
 name: "Jeet Ganguly"
@@ -57,7 +93,7 @@ fun_fact: "Selected 2 out of 6,000+ candidates for an Indian Army CTF-based secu
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -95,7 +131,7 @@ fun_fact: "Selected 2 out of 6,000+ candidates for an Indian Army CTF-based secu
 
 ---
 
-### 🚀 Highlights
+### Highlights
 
 <table>
 <tr>
@@ -145,7 +181,7 @@ Facebook SOCMINT investigation tool for threat actor profiling .
 
 ---
  
-### 🏆 Achievements & HOF
+### Achievements & HOF
  
 | Achievement | Event | Year |
 |---|---|---|
@@ -167,7 +203,7 @@ Facebook SOCMINT investigation tool for threat actor profiling .
 
 <div align="center">
 
-### 📡 Connect with Me
+### Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-visit-informational?style=for-the-badge)](https://jeet-ganguly.github.io)
 [![Write-ups](https://img.shields.io/badge/📝_Write--ups-read-success?style=for-the-badge)](https://jeet-ganguly.github.io/profile/blog/index.html)
