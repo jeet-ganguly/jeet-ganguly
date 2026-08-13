@@ -22,6 +22,17 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+<img src="https://streak-stats.demolab.com/?user=jeet-ganguly&theme=dark&hide_border=true&background=0d1117&ring=00ff9c&fire=8be9fd&currStreakLabel=00ff9c" height="165"/>
+</div>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeet-ganguly&theme=tokyo-night&hide_border=true&bg_color=00000000&color=78C5FF&line=B5F5FF&point=ffffff" width="100%"/>
+</div>
+
+---
+
 ### 👋 About Me
 
 ```yaml
@@ -151,14 +162,6 @@ Facebook SOCMINT investigation tool for threat actor profiling .
 - 50+ vulnerabilities found across production apps at FaceOff Technologies
 - 15 API vulnerabilities across public bug bounty programs
 - Hall of Fame: **Netherlands Government SOC**, **Delta Exchange**
- 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=jeet-ganguly&theme=dark&hide_border=true&background=0d1117&ring=00ff9c&fire=8be9fd&currStreakLabel=00ff9c" height="165"/>
-</div>
 
 ---
 
