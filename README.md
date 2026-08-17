@@ -88,7 +88,7 @@ fun_fact: "Selected 2 out of 6,000+ candidates for an Indian Army CTF-based secu
 - 🛡️ Identified **50+ real-world vulnerabilities** (IDOR, Broken Access Control, JWT bypass, SSRF, Race Conditions & more) across production applications
 - 🏆 Hall of Fame — **Netherlands Government SOC** & **Delta Exchange**
 - 🧠 Developer of **Birdy-Edwards** (46★) and **Canva-C2** (8★) — open-source security research tools
-- 🎯 **Top 3% Globally** on TryHackMe · 105 machines solved
+- 🎯 **Top 3% Globally** on TryHackMe · 100+ machines solved
 - 🎖️ National Finalist — **NCIIPC-AICTE Pentathon 2025**
 
 ---
@@ -195,7 +195,6 @@ Facebook SOCMINT investigation tool for threat actor profiling .
 | 🪖 Selected 2/6,000+ | Indian Army Cyber Security Internship (CTF & Interview) | 2025 |
 
 **🐛 Bug Bounty & AppSec**
-- 50+ vulnerabilities found across production apps at FaceOff Technologies
 - 15 API vulnerabilities across public bug bounty programs
 - Hall of Fame: **Netherlands Government SOC**, **Delta Exchange**
 
