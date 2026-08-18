@@ -44,7 +44,7 @@
 </table>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=Web+%2B+API+Penetration+Tester;Dark+Web+%26+OSINT+Investigator;Building+Birdy-Edwards+%7C+Canva-C2;Top+3%25+Globally+on+TryHackMe" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=700&lines=Web+%2B+API+Penetration+Tester;Dark+Web+%26+OSINT+Investigator;Building+Birdy-Edwards+%7C+Canva-C2;" alt="Typing SVG" />
 
 <br/>
 
