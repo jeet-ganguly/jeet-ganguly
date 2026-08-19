@@ -82,7 +82,7 @@ currently:
   - "🔍 Hunting vulnerabilities across production web/API stacks"
   - "🕸️  Monitoring 100+ dark web forums & Telegram channels for threat intel"
   - "🛠️  Building Birdy-Edwards — an AI-powered SOCMINT investigation platform"
-fun_fact: "Selected 2 out of 6,000+ candidates for an Indian Army CTF-based security internship"
+fun_fact: "Selected 2 out of 6,000+ candidates for an Indian Army cyber security internship"
 ```
 
 - 🛡️ Identified **50+ real-world vulnerabilities** (IDOR, Broken Access Control, JWT bypass, SSRF, Race Conditions & more) across production applications
