@@ -142,7 +142,7 @@ AI-powered Facebook SOCMINT investigation tool for threat actor profiling & beha
 - Enriched 3,500+ interactions in a live threat actor investigation with geographic attribution
 - Local LLM intelligence (Ollama · Gemma 3) — zero cloud dependency
 - Force-directed network graphs & automated PDF intel reports
-- **46★ · 5 forks**
+- **51★ · 5 forks**
 
 </td>
 <td width="50%" valign="top">
@@ -164,7 +164,7 @@ Facebook SOCMINT investigation tool for threat actor profiling .
 - Who wants fast data gathering and grpah analysis using frequency of interactions
 - zero cloud dependency
 - Force-directed network graphs 
-- **26★ · 3 forks**
+- **28★ · 3 forks**
 
 </td>
 <td width="50%" valign="top">
