@@ -164,7 +164,7 @@ Facebook SOCMINT investigation tool for threat actor profiling .
 - Who wants fast data gathering and grpah analysis using frequency of interactions
 - zero cloud dependency
 - Force-directed network graphs 
-- **32★ · 3 forks**
+- **33★ · 3 forks**
 
 </td>
 <td width="50%" valign="top">
