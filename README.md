@@ -51,7 +51,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jeet-ganguly.github.io/profile)
 [![Write-ups](https://img.shields.io/badge/Write--ups-00ff9c?style=for-the-badge&logo=readthedocs&logoColor=black)](https://jeet-ganguly.github.io/profile/blog/index.html)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jeet-ganguly)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeet-ganguly)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeet-ganguly-b2971531a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jganguly148@gmail.com)
 
 </div>
@@ -206,7 +206,7 @@ Facebook SOCMINT investigation tool for threat actor profiling .
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-visit-informational?style=for-the-badge)](https://jeet-ganguly.github.io)
 [![Write-ups](https://img.shields.io/badge/📝_Write--ups-read-success?style=for-the-badge)](https://jeet-ganguly.github.io/profile/blog/index.html)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/jeet-ganguly)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jeet-ganguly-b2971531a/)
 [![Email](https://img.shields.io/badge/Email-say_hi-red?style=for-the-badge&logo=gmail)](mailto:jganguly148@gmail.com)
 
 </div>
